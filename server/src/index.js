@@ -1,4 +1,6 @@
-import express from 'express';
+// import express from 'express';
+import express from './src/index.js';
+
 import dotenv from 'dotenv';
 import cors from 'cors';
 import bodyParser from 'body-parser';
